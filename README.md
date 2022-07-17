@@ -1,5 +1,5 @@
-# Learn-to-Decompose Cascaded Decomposition Network for Cross-Domian Few-Shot Facial Expression Recignition
-[[Paper]](https://arxiv.org/abs/2001.08735) [[Code]](https://github.com/zouxinyi0625/CDNet)
+# Learn-to-Decompose: Cascaded Decomposition Network for Cross-Domian Few-Shot Facial Expression Recignition
+[[Paper]] [[Code]](https://github.com/zouxinyi0625/CDNet)
 
 
 This is an official implementation of the following paper:
