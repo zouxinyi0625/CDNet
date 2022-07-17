@@ -3,7 +3,7 @@
 
 
 This is an official implementation of the following paper:
-> **Learn-to-Decompose Cascaded Decomposition Network for Cross-Domian Few-Shot Facial Expression Recignition**
+> **Learn-to-Decompose: Cascaded Decomposition Network for Cross-Domian Few-Shot Facial Expression Recignition**
 >
 > Xinyi Zou, Yan Yan*, Jing-Hao Xue, Si Chen, and Hanzi Wang
 >
@@ -18,7 +18,7 @@ mechanism to obtain the general expression prototypes and their corresponing wei
 episodic training and batch training
 3. achieve stat-of-the-art performance on various compound FER datasets under CD-FSL setting.
 
-Please cite our paper if you find the code or dataset useful for your research.
+Please cite our paper if you find the code useful for your research.
 
 ```
 to be update
