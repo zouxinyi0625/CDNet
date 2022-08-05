@@ -21,7 +21,12 @@ episodic training and batch training
 Please cite our paper if you find the code useful for your research.
 
 ```
-to be update
+@article{zou2022learn,
+  title={Learn-to-Decompose: Cascaded Decomposition Network for Cross-Domain Few-Shot Facial Expression Recognition},
+  author={Zou, Xinyi and Yan, Yan and Xue, Jing-Hao and Chen, Si and Wang, Hanzi},
+  journal={arXiv preprint arXiv:2207.07973},
+  year={2022}
+}
 ```
 
 
